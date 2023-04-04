@@ -1,0 +1,32 @@
+[
+	{
+	"name": "🐛 BUGS",
+	"description": "Something isn't working",
+	"color": "0E8A16"
+	},
+	{
+	"name": "📝 DOCS",
+	"description": "Improvements or additions to documentation",
+	"color": "0052CC"
+	},
+	{
+	"name": "✨ FEAT REQ",
+	"description": "New feature or request",
+	"color": "B60205"
+	},
+	{
+	"name": "🎉 good first issue",
+	"description": "🎉 good first issue",
+	"color": "5319E7"
+	},
+	{
+	"name": "❔Question mark",
+	"description": "Further information is requested",
+	"color": "FBCA04"
+	},
+	{
+	"name": "❔💀❔wontfix",
+	"description": "This will not be worked on",
+	"color": "000000"
+	}
+]
